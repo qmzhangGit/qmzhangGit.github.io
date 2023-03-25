@@ -120,7 +120,7 @@ China, Chengdu, China.
  
  - **张千明**, 周涛. 关于“大力发展卫星数据应用抢占空天信息产业发展先机”的建议，03/2022. **Qian-Ming Zhang** and Tao Zhou. Recommendations on seizing the opportunity to develop the space-based information industry through the vigorous development of satellite data applications. 03/2022.
 
-# 工作 Employment
+# 🧑‍🎨 Employment
 - *03/2023–present*: Researcher, The Institute of Service-Oriented Manufacture, Hangzhou, Zhejiang, China. 
 - *02/2022–03/2023*: Associate Dean, Suining Institute of Digit Economy, Suining, Sichuan, China. 
 - *02/2017–09/2022*: Assistant Researcher, University of Electronic Science and Technology of China, Chengdu, Sichuan, China. 
