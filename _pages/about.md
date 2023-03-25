@@ -42,7 +42,7 @@ China, Chengdu, China.
 - *01/2014–12/2015*, visiting scholar, Center for Ploymer Studies, Boston University, Boston, MA USA
 - *09/2011–12/2012*, visiting scholar, Beijing Computional Science Research Center, Beijing, China
 
-# 📝 Publications 
+#  Publications 
 
 ### Articles (*: corresponding author)
  - Zhongtao Yue, Tao Zhou, Yan-Li Lee, **Qian-Ming Zhang**, and Jian Gao. “Student promotional mobility network reveals the academic hierarchy and educational inequalities”. In: in review (2023).
@@ -153,7 +153,7 @@ China, Chengdu, China.
 - *2013.09.13* Geography and similarity of regional cuisines in China, Proceedings of the Chinese Conference Complex Networks
 - *2010.07.28* Similarity-based classification in partially labeled networks, National Network Science Forum and National Chaos Application Symposium
 
-# Services
+# 📝 Services
 ### Professional organizations and advisory boards
  - Deputy secretary general, Artificial Intelligence Education, Chengdu Education Society, 2020 - current
  - Deputy secretary general, Suining Digital Economy Development Promotion Association, 2022 - current
