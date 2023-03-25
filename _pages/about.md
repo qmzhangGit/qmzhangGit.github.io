@@ -29,6 +29,8 @@ editing the first set of artificial intelligence teaching series in Chengdu.
 
 Now I am learning about the Generic Technology used in service-oriented manufacturing.
 
+My CV is available for [download here](https://raw.githubusercontent.com/qmzhangGit/qmzhangGit.github.io/main/_pages/CV_Zhang.pdf).
+
 # 📖 Educations
 - *09/2011–12/2016*, Ph.D. Computer Software and Technology, University of Electronic Science and Technology of
 China, Chengdu, China. 
