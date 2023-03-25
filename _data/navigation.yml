@@ -3,9 +3,6 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Employment"
-    url: "/#-employment"
-
   - title: "Educations"
     url: "/#-educations"
 
@@ -14,6 +11,9 @@ main:
 
   - title: "Programs"
     url: "/#-programs"
+
+  - title: "Employment"
+    url: "/#-employment"
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
