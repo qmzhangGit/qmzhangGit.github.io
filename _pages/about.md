@@ -18,8 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 My research interest lies in the field of data mining using complex network analysis and machine learning 
-algorithms. I have an extensive publication record, with more than 30 papers published in renowned international 
-journals such as Physics Review, Nature Communications, Information Science, and Scientific Reports. These papers 
+algorithms. I have published 26 papers in renowned international journals such as Physics Reports, Nature Communications, Information Science, and Scientific Reports. These papers 
 have been highly cited, with over 2500 citations counted by Google Scholar. Furthermore, I have served as a reviewer 
 for prestigious journals. 
 
