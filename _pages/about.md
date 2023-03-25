@@ -27,11 +27,6 @@ In terms of social services, I have recorded some popular science courses on big
 I have also conducted offline popular science training for students from multiple schools and participated in 
 editing the first set of artificial intelligence teaching series in Chengdu.
 
-# 🔥 Employment
-- *02/2022–present*: Associate Dean, Suining Institute of Digit Economy, Suining, Sichuan, China. 
-- *02/2017–09/2022*: Assistant Researcher, University of Electronic Science and Technology of China, Chengdu, Sichuan, China. 
-- *04/2016–02/2022*: Chief Data Officer, Chengdu DataCastle Technology Co. Ltd., Chengdu, Sichuan, China 
-
 # 📖 Educations
 - *09/2011–12/2016*, Ph.D. Computer Software and Technology, University of Electronic Science and Technology of
 China, Chengdu, China. 
@@ -42,7 +37,7 @@ China, Chengdu, China.
 - *01/2014–12/2015*, visiting scholar, Center for Ploymer Studies, Boston University, Boston, MA USA
 - *09/2011–12/2012*, visiting scholar, Beijing Computional Science Research Center, Beijing, China
 
-#  Publications 
+# 📝 Publications 
 
 ### Articles (*: corresponding author)
  - Zhongtao Yue, Tao Zhou, Yan-Li Lee, **Qian-Ming Zhang**, and Jian Gao. “Student promotional mobility network reveals the academic hierarchy and educational inequalities”. In: in review (2023).
@@ -125,6 +120,13 @@ China, Chengdu, China.
  
  - **张千明**, 周涛. 关于“大力发展卫星数据应用抢占空天信息产业发展先机”的建议，03/2022. **Qian-Ming Zhang** and Tao Zhou. Recommendations on seizing the opportunity to develop the space-based information industry through the vigorous development of satellite data applications. 03/2022.
 
+# 工作 Employment
+- *03/2023–present*: Researcher, The Institute of Service-Oriented Manufacture, Hangzhou, Zhejiang, China. 
+- *02/2022–03/2023*: Associate Dean, Suining Institute of Digit Economy, Suining, Sichuan, China. 
+- *02/2017–09/2022*: Assistant Researcher, University of Electronic Science and Technology of China, Chengdu, Sichuan, China. 
+- *04/2016–02/2022*: Chief Data Officer, Chengdu DataCastle Technology Co. Ltd., Chengdu, Sichuan, China 
+
+
 # 💻 Programs
 ### List of engineering programs
  - Develop a rating system for Data Science Competition Platform, Evaluation System for Competitions (ESC). It is developed for common metrics, including Precison, Recall, F1, AUC, MAE, MSE, etc. 03/2020–06/2020
@@ -153,7 +155,7 @@ China, Chengdu, China.
 - *2013.09.13* Geography and similarity of regional cuisines in China, Proceedings of the Chinese Conference Complex Networks
 - *2010.07.28* Similarity-based classification in partially labeled networks, National Network Science Forum and National Chaos Application Symposium
 
-# 📝 Services
+# 🤝 Services
 ### Professional organizations and advisory boards
  - Deputy secretary general, Artificial Intelligence Education, Chengdu Education Society, 2020 - current
  - Deputy secretary general, Suining Digital Economy Development Promotion Association, 2022 - current
